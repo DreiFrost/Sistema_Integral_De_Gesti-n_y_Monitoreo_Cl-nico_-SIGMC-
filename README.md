@@ -25,6 +25,7 @@ El sistema permite registrar la información de los pacientes y posteriormente r
 Entre las principales funciones se encuentran:
 
 📁 Registrar pacientes
+
 📁 Buscar pacientes
 📁 Modificar información
 📁Eliminar registros
