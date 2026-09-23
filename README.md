@@ -1,7 +1,7 @@
 # PediaCenter Clínica Pediátrica
 
 <p align="center">
-  <img src="ruta-de-tu-logo-o-imagen" width="300">
+  <img src="20260922_193508.jpg.jpeg" width="300">
 </p>
 
 ## Descripción
