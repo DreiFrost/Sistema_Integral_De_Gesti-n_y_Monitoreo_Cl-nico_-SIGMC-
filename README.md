@@ -4,7 +4,7 @@
   <img src="20260922_193508.jpg.jpeg" width="300">
 </p>
 
-## 🩺Descripción:
+## 🩺 Descripción:
 
 PediaCenter Clínica Pediátrica es un sistema desarrollado para facilitar la gestión y organización de la información de los pacientes dentro de una clínica pediátrica.
 
@@ -85,6 +85,10 @@ Estos datos permitirán mantener un historial de la evolución del paciente.
 
 Este proyecto fue desarrollado como parte del curso de Programación II, aplicando conceptos de Programación Orientada a Objetos y estructuras de datos.
 
-## Autor
+🖥️ DEVELOPERS:
 
-Drei Frost
+HUGO
+DIEGO
+PABLO
+JEYLY
+ANDREA
