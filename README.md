@@ -96,8 +96,8 @@ Este proyecto fue desarrollado como parte del curso de Programación II, aplican
 
 🖥️ DEVELOPERS:
 
-HUGO
-DIEGO
+HUGO,
+DIEGO,
 PABLO
-JEYLY
+JEYLY Y
 ANDREA
