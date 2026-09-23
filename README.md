@@ -25,17 +25,26 @@ El sistema permite registrar la información de los pacientes y posteriormente r
 Entre las principales funciones se encuentran:
 
 📁Registrar pacientes
+
 📁Buscar pacientes
+
 📁 Modificar información
+
 📁 Eliminar registros
+
 📁 Consultar información clínica
+
 📁 Registrar citas
+
 📁 Registrar peso y talla
+
 📁 Registrar temperatura
+
 📁 Registrar presión arterial
+
 📁 Llevar un control del crecimiento del paciente
 
-## Objetivo
+## 📊 Objetivo
 
 Desarrollar una aplicación que permita administrar de forma organizada la información de los pacientes de una clínica pediátrica, facilitando el acceso y manejo de los datos durante la atención médica.
 
@@ -47,18 +56,18 @@ Desarrollar una aplicación que permita administrar de forma organizada la infor
 - ArrayList
 - GitHub
 
-## Estructura del sistema
+## 📈 Estructura del sistema
 
 El proyecto está desarrollado utilizando Programación Orientada a Objetos, separando las diferentes responsabilidades del sistema mediante clases.
 
 Entre las clases principales se encuentran:
 
-- Paciente
-- Médico
-- Cita
-- Historial Clínico
-- Signos Vitales
-- Sistema
+Paciente
+ Médico
+Cita
+Historial Clínico
+Signos Vitales
+Sistema
 
 ## Interfaz
 
