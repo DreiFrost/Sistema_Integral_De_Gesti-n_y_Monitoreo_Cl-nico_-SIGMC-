@@ -1,4 +1,4 @@
-# PediaCenter Clínica Pediátrica
+# PediaCenter Clínica Pediátrica (PROYRCTO FINAL)
 
 <p align="center">
   <img src="20260922_193508.jpg.jpeg" width="300">
