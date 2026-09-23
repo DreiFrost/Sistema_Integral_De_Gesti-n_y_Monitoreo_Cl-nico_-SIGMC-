@@ -4,7 +4,7 @@
   <img src="20260922_193508.jpg.jpeg" width="300">
 </p>
 
-## Descripción
+## 🩺Descripción:
 
 PediaCenter Clínica Pediátrica es un sistema desarrollado para facilitar la gestión y organización de la información de los pacientes dentro de una clínica pediátrica.
 
