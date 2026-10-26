@@ -1,79 +1,83 @@
-PediaCenter Clínica Pediátrica
-
-PROYECTO FINAL
-
-"Java" (https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-🖥️ DEVS
-
-HUGO, DIEGO, PABLO, JEYLY Y ANDREA
+# PediaCenter Clínica Pediátrica (PROYECTO FINAL)
 
 <p align="center">
   <img src="20260922_193508.jpg.jpeg" width="300">
-</p>🩺 Descripción
+</p>
 
-PediaCenter es una aplicación de escritorio desarrollada en Java para organizar la información de una clínica pediátrica. Permite registrar pacientes, administrar citas y consultar el historial de sus consultas y controles.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-📋 Problemática
+🖥️ DEVELOPERS:
 
-Guardar la información en diferentes archivos dificulta encontrar los datos y dar seguimiento a los pacientes. El proyecto busca reunir los registros en una misma base de datos para facilitar su consulta y actualización.
+HUGO,
+DIEGO,
+PABLO
+JEYLY Y
+ANDREA
 
-⚙️ ¿Cómo funciona?
 
-El sistema cuenta con dos tipos de usuario:
 
-Secretaria: registra pacientes y organiza las citas.
 
-Médico: administra la información clínica, registra consultas y exámenes, revisa el crecimiento y crea cuentas de usuario.
+ 🩺 Descripción:
 
-Sus principales funciones son:
+PediaCenter Clínica Pediátrica es un sistema desarrollado para facilitar la gestión y organización de la información de los pacientes dentro de una clínica pediátrica
 
-📁 Registrar pacientes.
+El proyecto surge debido a la necesidad de contar con un sistema centralizado que permita almacenar, consultar y actualizar la información de los pacientes de una manera más organizada, evitando depender de archivos individuales y reduciendo la duplicación de información
 
-📁 Buscar pacientes.
+El sistema permite llevar un mejor control de los pacientes y de la información generada durante sus consultas médicas
 
-📁 Modificar información.
+## Problemática
 
-📁 Eliminar registros.
+Actualmente, la información de los pacientes puede encontrarse almacenada en diferentes archivos, lo que dificulta localizar los datos durante una consulta, actualizar el historial y mantener la información organizada.
 
-📁 Consultar el historial clínico.
+PediaCenter busca solucionar esta problemática mediante un sistema que permita centralizar la información y facilitar su administración
 
-📁 Programar y actualizar citas.
+ ¿Cómo funciona?
 
-📁 Registrar peso y talla.
+El sistema permite registrar la información de los pacientes y posteriormente realizar diferentes operaciones sobre los registros almacenados
 
-📁 Consultar gráficas de crecimiento.
+Entre las principales funciones se encuentran:
 
-📁 Guardar exámenes y archivos adjuntos.
+📁Registrar pacientes
 
-📁 Exportar expedientes a PDF.
+📁Buscar pacientes
 
-📊 Objetivo
+📁 Modificar información
 
-Desarrollar una aplicación que ayude al médico y a la secretaria a organizar los datos de los pacientes y las actividades de la clínica.
+📁 Eliminar registros
 
-🛠️ Herramientas utilizadas
+📁 Consultar información clínica
 
-Java y Swing
+📁 Registrar citas
 
-MySQL
+📁 Registrar peso y talla
 
-NetBeans
+📁 Registrar temperatura
 
-Maven
+📁 Registrar presión arterial
 
-GitHub
+📁 Llevar un control del crecimiento del paciente
 
-📂 Estructura del sistema
+ 📊 Objetivo
 
-ui: ventanas, formularios e imagen.
+Desarrollar una aplicación que permita administrar de forma organizada la información de los pacientes de una clínica pediátrica, facilitando el acceso y manejo de los datos durante la atención médica
 
-modelo: definición de campos y módulos.
+Tecnologías utilizadas
 
-dao: conexión a MySQL.
+- Java
+- NetBeans
+- Programación Orientada a Objetos
+- ArrayList
+- GitHub
 
-servicio: operaciones con los datos, usuarios y generación de PDF.
+📈 Estructura del sistema
 
-▶️ Ejecución
+El proyecto está desarrollado utilizando Programación Orientada a Objetos, separando las diferentes responsabilidades del sistema mediante clases
 
-Abre el proyecto en NetBeans, importa el script de la carpeta "database" en MySQL y configura tu conexión en "config.properties". Después, ejecuta el proyecto.
+Entre las clases principales se encuentran:
+
+Paciente
+ Médico
+Cita
+Historial Clínico
+Signos Vitales
+Sistema
