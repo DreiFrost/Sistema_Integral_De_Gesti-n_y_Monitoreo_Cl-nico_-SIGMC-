@@ -1,80 +1,79 @@
-# PediaCenter Clínica Pediátrica (PROYECTO FINAL)
+PediaCenter Clínica Pediátrica
+
+PROYECTO FINAL
+
+"Java" (https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+🖥️ DEVS
+
+HUGO, DIEGO, PABLO, JEYLY Y ANDREA
 
 <p align="center">
   <img src="20260922_193508.jpg.jpeg" width="300">
-</p>
+</p>🩺 Descripción
 
-## 🩺 Descripción:
+PediaCenter es una aplicación de escritorio desarrollada en Java para organizar la información de una clínica pediátrica. Permite registrar pacientes, administrar citas y consultar el historial de sus consultas y controles.
 
-PediaCenter Clínica Pediátrica es un sistema desarrollado para facilitar la gestión y organización de la información de los pacientes dentro de una clínica pediátrica
+📋 Problemática
 
-El proyecto surge debido a la necesidad de contar con un sistema centralizado que permita almacenar, consultar y actualizar la información de los pacientes de una manera más organizada, evitando depender de archivos individuales y reduciendo la duplicación de información
+Guardar la información en diferentes archivos dificulta encontrar los datos y dar seguimiento a los pacientes. El proyecto busca reunir los registros en una misma base de datos para facilitar su consulta y actualización.
 
-El sistema permite llevar un mejor control de los pacientes y de la información generada durante sus consultas médicas
+⚙️ ¿Cómo funciona?
 
-## Problemática
+El sistema cuenta con dos tipos de usuario:
 
-Actualmente, la información de los pacientes puede encontrarse almacenada en diferentes archivos, lo que dificulta localizar los datos durante una consulta, actualizar el historial y mantener la información organizada.
+Secretaria: registra pacientes y organiza las citas.
 
-PediaCenter busca solucionar esta problemática mediante un sistema que permita centralizar la información y facilitar su administración
+Médico: administra la información clínica, registra consultas y exámenes, revisa el crecimiento y crea cuentas de usuario.
 
-## ¿Cómo funciona?
+Sus principales funciones son:
 
-El sistema permite registrar la información de los pacientes y posteriormente realizar diferentes operaciones sobre los registros almacenados
+📁 Registrar pacientes.
 
-Entre las principales funciones se encuentran:
+📁 Buscar pacientes.
 
-📁Registrar pacientes
+📁 Modificar información.
 
-📁Buscar pacientes
+📁 Eliminar registros.
 
-📁 Modificar información
+📁 Consultar el historial clínico.
 
-📁 Eliminar registros
+📁 Programar y actualizar citas.
 
-📁 Consultar información clínica
+📁 Registrar peso y talla.
 
-📁 Registrar citas
+📁 Consultar gráficas de crecimiento.
 
-📁 Registrar peso y talla
+📁 Guardar exámenes y archivos adjuntos.
 
-📁 Registrar temperatura
+📁 Exportar expedientes a PDF.
 
-📁 Registrar presión arterial
+📊 Objetivo
 
-📁 Llevar un control del crecimiento del paciente
+Desarrollar una aplicación que ayude al médico y a la secretaria a organizar los datos de los pacientes y las actividades de la clínica.
 
-## 📊 Objetivo
+🛠️ Herramientas utilizadas
 
-Desarrollar una aplicación que permita administrar de forma organizada la información de los pacientes de una clínica pediátrica, facilitando el acceso y manejo de los datos durante la atención médica
+Java y Swing
 
-## Tecnologías utilizadas
+MySQL
 
-- Java
-- NetBeans
-- Programación Orientada a Objetos
-- ArrayList
-- GitHub
+NetBeans
 
-## 📈 Estructura del sistema
+Maven
 
-El proyecto está desarrollado utilizando Programación Orientada a Objetos, separando las diferentes responsabilidades del sistema mediante clases
+GitHub
 
-Entre las clases principales se encuentran:
+📂 Estructura del sistema
 
-Paciente
- Médico
-Cita
-Historial Clínico
-Signos Vitales
-Sistema
+ui: ventanas, formularios e imagen.
 
-🖥️ DEVELOPERS:
+modelo: definición de campos y módulos.
 
-HUGO,
-DIEGO,
-PABLO
-JEYLY Y
-ANDREA
+dao: conexión a MySQL.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+servicio: operaciones con los datos, usuarios y generación de PDF.
+
+▶️ Ejecución
+
+Abre el proyecto en NetBeans, importa el script de la carpeta "database" en MySQL y configura tu conexión en "config.properties". Después, ejecuta el proyecto.
