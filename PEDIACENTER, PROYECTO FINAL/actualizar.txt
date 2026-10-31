@@ -1,0 +1,9 @@
+PediaCenter
+
+Extraiga toda la carpeta antes de abrir iniciar.bat
+El ejecutable incluye el codigo y las imagenes de este proyecto
+Requiere Java 17 o superior y MySQL configurado en config.properties
+
+Si modifica el codigo en NetBeans, use Limpiar y construir (Clean and Build)
+La fase package de Maven actualiza bin/pediacenter.jar, utilizado por iniciar.bat
+Ejecutar el proyecto desde NetBeans no reemplaza por si solo el JAR
