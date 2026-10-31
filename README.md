@@ -1,7 +1,7 @@
 # PediaCenter Clínica Pediátrica (PROYECTO FINAL)
 
 <p align="center">
-  <img src="20260922_193508.jpg.jpeg" width="300">
+  <img src="WhatsApp Image 2026-10-25 at 8.48.42 PM (1).jpeg" width="300">
 </p>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
